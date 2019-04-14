@@ -1,0 +1,10 @@
+E:\Project\Nethereum\Signing\bin\Debug\netcoreapp2.0\Signing.deps.json
+E:\Project\Nethereum\Signing\bin\Debug\netcoreapp2.0\Signing.runtimeconfig.json
+E:\Project\Nethereum\Signing\bin\Debug\netcoreapp2.0\Signing.runtimeconfig.dev.json
+E:\Project\Nethereum\Signing\bin\Debug\netcoreapp2.0\Signing.dll
+E:\Project\Nethereum\Signing\bin\Debug\netcoreapp2.0\Signing.pdb
+E:\Project\Nethereum\Signing\obj\Debug\netcoreapp2.0\Signing.csproj.CoreCompileInputs.cache
+E:\Project\Nethereum\Signing\obj\Debug\netcoreapp2.0\Signing.AssemblyInfoInputs.cache
+E:\Project\Nethereum\Signing\obj\Debug\netcoreapp2.0\Signing.AssemblyInfo.cs
+E:\Project\Nethereum\Signing\obj\Debug\netcoreapp2.0\Signing.dll
+E:\Project\Nethereum\Signing\obj\Debug\netcoreapp2.0\Signing.pdb
